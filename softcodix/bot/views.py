@@ -127,7 +127,7 @@ def dialogflow_webhook(request):
                                         },
                                         "text": "📱 WhatsApp",
                                         "type": "button",
-                                        "link": "https://wa.me/923151179953"   # ✅ Replace with your WhatsApp link
+                                        "link": "#"   # ✅ Replace with your WhatsApp link
                                     }
                                 ]
                             ]
